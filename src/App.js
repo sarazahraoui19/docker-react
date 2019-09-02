@@ -10,6 +10,9 @@ function App() {
         <p>
           Problem <code>src/App.js</code> and save to reload.
         </p>
+        <p className="App-intro">
+          I was changed in the feature branch!!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
